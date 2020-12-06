@@ -1,0 +1,6 @@
+FORIYA i=0 TOIYA 5 THENIYA PRINTIYA i
+
+PRINTIYA "atau menggunakan ini"
+
+a=6
+FORIYA i=0 TOIYA 5 THENIYA a+i
